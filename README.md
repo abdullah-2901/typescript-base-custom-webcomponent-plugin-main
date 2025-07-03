@@ -1,0 +1,1 @@
+# typescript-base-custom-webcomponent-plugin-main
